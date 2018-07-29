@@ -4,5 +4,4 @@ Workthrough of [Linux Sysadmin Basics](https://www.youtube.com/playlist?list=PLt
 
 Personal Repo with cheat-sheet and summary
 
-## Basics
-    - pwd cp 
+1. [Basics](https://github.com/ASVBPREAUBV/linux-sysadmin-basics/blob/master/basics.md)
