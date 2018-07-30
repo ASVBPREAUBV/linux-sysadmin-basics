@@ -2,6 +2,7 @@
 Corresponding videos:
 - [Absolute Basics](https://www.youtube.com/watch?v=id3DGvljhT4)
 - [Basics 01](https://www.youtube.com/watch?v=Lbh8Bh_SEzU)
+- [Basics 02](https://www.youtube.com/watch?v=fEGSA68uAR4)
 
 
 ```
@@ -13,6 +14,12 @@ Corresponding videos:
 # tilde sign
 # a shortcut to the home-directory of the user e.g. /   home/userxyz
 ~
+```
+
+```
+# one dot
+# means this directory, so if you are in /home/userxyz . means /home/userxyz
+.   
 ```
 
 ```
@@ -29,8 +36,12 @@ Corresponding videos:
 ## man
 
 ```
-
+# manual
+# manual page for every command
+man
+# in the manual press q to leave
 ```
+
 ## pwd
 
 ```
@@ -42,8 +53,14 @@ pwd
 ## ls 
 ```
 # list directory content
-# lists all files / directories / objects in a directory
+# lists non hidden files / directories / objects in a directory
 ls
+# lists all files / directories / objects in a directory
+ls -a
+# lists it as list
+ls -l
+# lists it human readable
+ls -alh
 ```
 
 ## cd
@@ -72,7 +89,9 @@ touch
 
 ```
 # print out an file
-cat
+cat file 
+# add a file to the end of the other file
+cat file1 file2
 ```
 
 ## mkdir
@@ -80,7 +99,9 @@ cat
 ```
 # make directory
 # creates a new directory
-mkdir
+mkdir myfolder
+# create whole path
+mkdir -p myfolder/anotherfolder/testfolder
 ```
 
 ## mv
@@ -95,7 +116,11 @@ mv
 ```
 # remove
 # remove file
-rm
+rm file
+# force remove
+rm -f 
+# remove recursively
+rm -r folder
 ```
 
 ## rmdir
