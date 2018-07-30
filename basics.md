@@ -26,7 +26,11 @@ Corresponding videos:
 # the root directory 
 /
 ```
+## man
 
+```
+
+```
 ## pwd
 
 ```
@@ -42,12 +46,12 @@ pwd
 ls
 ```
 
-
 ## cd
 
 ```
 # change directory
 # changes the directory you are in
+# cd without anything brings you back to your homedirectory
 cd
 ```
 ## clear
@@ -64,3 +68,40 @@ clear
 touch
 ```
 
+## cat
+
+```
+# print out an file
+cat
+```
+
+## mkdir
+
+```
+# make directory
+# creates a new directory
+mkdir
+```
+
+## mv
+```
+# move
+# move file
+mv
+```
+
+## rm
+
+```
+# remove
+# remove file
+rm
+```
+
+## rmdir
+
+```
+# remove
+# remove folder, most people use rm -r
+rmdir
+```
