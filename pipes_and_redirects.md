@@ -18,7 +18,8 @@ Corresponding videos:
 ## Linux Process Channels
 
 Every command has 3 channels:
-
-0. Standard in, STDIN, 0
-1. Standard out, STDOUT, 1
-2. Standard out, STDERR, 2
+| Name | abbreviation | channel |
+|--|--|--|
+| Standard in | STDIN | 0 |
+| Standard out | STDOUT | 1 |
+| Standard error | STDERR | 2 |
