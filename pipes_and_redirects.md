@@ -7,16 +7,15 @@ Corresponding videos:
 ## Pipe
 
 ```
-#this is the pipe sign: |
+# this is the pipe sign: |
 # it takes STDOUT on the left side and turns it into STDIN on the right
 ```
 
 ## Redirect
 
 ```
-#this is the redirect sign: >
+# this is the redirect sign: >
 # It writes STDOUT to a file
-
 ```
 
 ## Linux Process Channels
