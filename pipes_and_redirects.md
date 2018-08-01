@@ -1,6 +1,8 @@
 # Pipes and redirects
+
 Corresponding videos:
 - [Basics 04](https://www.youtube.com/watch?v=-Z5tCri-QlI)
+
 
 ## Pipe
 
@@ -13,6 +15,8 @@ Corresponding videos:
 
 ```
 #this is the redirect sign: >
+# It writes STDOUT to a file
+
 ```
 
 ## Linux Process Channels
