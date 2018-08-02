@@ -15,7 +15,22 @@ Corresponding videos:
 
 ```
 # this is the redirect sign: >
-# It writes STDOUT to a file
+# It writes STDOUT to a file, 
+# If the file doesnt exist it creates it
+# If the file exists it overrides it
+echo "test" > test.file
+# this is the same as above 
+echo "test" 1> test.file
+ 
+# If you dont want to override the file use >>
+echo "test2" >> test.file
+
+# If you want to write STDERR to a file use
+ls -l nonexistentfile >> test.file
+
+# takes a file and produces STDIN to funnel into an command
+cat < test.file
+
 ```
 
 ## Linux Process Channels
