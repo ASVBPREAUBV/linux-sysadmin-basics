@@ -36,6 +36,7 @@ cat < test.file
 ## Linux Process Channels
 
 Every command has 3 channels:
+
 | Name | abbreviation | channel |
 | -- | -- | -- |
 | Standard in | STDIN | 0 |
