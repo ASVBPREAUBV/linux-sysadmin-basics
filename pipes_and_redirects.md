@@ -37,7 +37,7 @@ cat < test.file
 
 Every command has 3 channels:
 | Name | abbreviation | channel |
-|--|--|--|
+| -- | -- | -- |
 | Standard in | STDIN | 0 |
 | Standard out | STDOUT | 1 |
 | Standard error | STDERR | 2 |
