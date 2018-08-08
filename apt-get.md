@@ -25,4 +25,8 @@ sudo apt-cache search xyz
 /etc/apt/sourceslist
 
 
+# PPA
+# personal package archive
+# you can add a archive tou your sourcelist to download e.g. newer versions than in the official repos
+sudo add-apt-repository ppa:xyz/zyx
 ```
