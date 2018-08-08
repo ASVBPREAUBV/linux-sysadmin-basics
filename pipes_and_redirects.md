@@ -4,6 +4,18 @@ Corresponding videos:
 - [Basics 04](https://www.youtube.com/watch?v=-Z5tCri-QlI)
 
 
+## Linux Process Channels
+
+Every command has 3 channels:
+
+| Name | abbreviation | channel |
+| :---: | :---: | :---: |
+| Standard in    | STDIN  | 0 |
+| Standard out   | STDOUT | 1 |´
+| Standard error | STDERR | 2 |
+
+
+
 ## Pipe
 
 ```
@@ -32,13 +44,3 @@ ls -l nonexistentfile >> test.file
 cat < test.file
 
 ```
-
-## Linux Process Channels
-
-Every command has 3 channels:
-
-| Name | abbreviation | channel |
-| :---: | :---: | :---: |
-| Standard in | STDIN | 0 |
-| Standard out | STDOUT | 1 |
-| Standard error | STDERR | 2 |
