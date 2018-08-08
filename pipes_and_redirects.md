@@ -2,6 +2,7 @@
 
 Corresponding videos:
 - [Basics 04](https://www.youtube.com/watch?v=-Z5tCri-QlI)
+- [Basics 05 - apt-get](https://www.youtube.com/watch?v=8P-Vek7Vtgg&t=535s)
 
 
 ## Linux Process Channels
