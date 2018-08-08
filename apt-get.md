@@ -1,5 +1,8 @@
 # apt-get
 
+- [Basics 05 - apt-get](https://www.youtube.com/watch?v=8P-Vek7Vtgg&t=535s)
+
+
 Package-manager for binaries on linux
 
 ```
@@ -26,7 +29,7 @@ sudo apt-cache search xyz
 
 
 # PPA
-# personal package archive
+# personal package archive:
 # you can add a archive tou your sourcelist to download e.g. newer versions than in the official repos
 sudo add-apt-repository ppa:xyz/zyx
 ```

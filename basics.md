@@ -3,7 +3,7 @@ Corresponding videos:
 - [Absolute Basics](https://www.youtube.com/watch?v=id3DGvljhT4)
 - [Basics 01](https://www.youtube.com/watch?v=Lbh8Bh_SEzU)
 - [Basics 02](https://www.youtube.com/watch?v=fEGSA68uAR4)
-- [Basics Texteditors](https://www.youtube.com/watch?v=fEGSA68uAR4)
+- [Basics Texteditors](https://www.youtube.com/watch?v=fEGSA68uAR4)****
 
 
 ```
