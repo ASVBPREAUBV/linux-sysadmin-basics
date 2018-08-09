@@ -1,6 +1,6 @@
 # apt-get
 
-- [Basics 05 - apt-get](https://www.youtube.com/watch?v=8P-Vek7Vtgg&t=535s)
+- [Basics 05 - apt-get](https://www.youtube.com/watch?v=8P-Vek7Vtgg)
 
 
 Package-manager for binaries on linux
